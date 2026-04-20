@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
 import { Card, List, Button, Tag, Avatar, Typography, message, Space, Empty, Alert } from "antd";
 import { CheckOutlined, CloseOutlined, ProjectOutlined, FileTextOutlined, AppstoreOutlined, TeamOutlined, EyeOutlined } from "@ant-design/icons";

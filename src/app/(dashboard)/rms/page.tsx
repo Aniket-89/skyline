@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
 import { Card, Row, Col, Avatar, Tag, Typography, Progress, Table, Button } from "antd";
 import { UserOutlined, PhoneOutlined, MailOutlined, TrophyOutlined } from "@ant-design/icons";

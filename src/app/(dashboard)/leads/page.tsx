@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/no-explicit-any, @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-unused-vars */
 "use client";
 import { Table, Button, Card, Tag, Select, Space, Drawer, Form, Input, InputNumber, message } from "antd";
 import { PlusOutlined, FilterOutlined, UserAddOutlined } from "@ant-design/icons";
